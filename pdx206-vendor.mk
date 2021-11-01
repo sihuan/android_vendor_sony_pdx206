@@ -201,7 +201,6 @@ PRODUCT_PACKAGES += \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
     QtiTelephonyService \
-    datastatusnotification \
     embms \
     uceShimService \
     WfdService \
